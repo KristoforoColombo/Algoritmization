@@ -1,0 +1,20 @@
+C:\Users\prota\source\repos\chzh\chzh\bin\Debug\chzh.exe.config
+C:\Users\prota\source\repos\chzh\chzh\bin\Debug\chzh.exe
+C:\Users\prota\source\repos\chzh\chzh\bin\Debug\chzh.pdb
+C:\Users\prota\source\repos\chzh\chzh\obj\Debug\chzh.csproj.AssemblyReference.cache
+C:\Users\prota\source\repos\chzh\chzh\obj\Debug\chzh.Form1.resources
+C:\Users\prota\source\repos\chzh\chzh\obj\Debug\chzh.Properties.Resources.resources
+C:\Users\prota\source\repos\chzh\chzh\obj\Debug\chzh.csproj.GenerateResource.cache
+C:\Users\prota\source\repos\chzh\chzh\obj\Debug\chzh.csproj.CoreCompileInputs.cache
+C:\Users\prota\source\repos\chzh\chzh\obj\Debug\chzh.exe
+C:\Users\prota\source\repos\chzh\chzh\obj\Debug\chzh.pdb
+C:\Users\ASUS\Desktop\для алгоритмов\chzh\chzh\bin\Debug\chzh.exe.config
+C:\Users\ASUS\Desktop\для алгоритмов\chzh\chzh\bin\Debug\chzh.exe
+C:\Users\ASUS\Desktop\для алгоритмов\chzh\chzh\bin\Debug\chzh.pdb
+C:\Users\ASUS\Desktop\для алгоритмов\chzh\chzh\obj\Debug\chzh.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\для алгоритмов\chzh\chzh\obj\Debug\chzh.Form1.resources
+C:\Users\ASUS\Desktop\для алгоритмов\chzh\chzh\obj\Debug\chzh.Properties.Resources.resources
+C:\Users\ASUS\Desktop\для алгоритмов\chzh\chzh\obj\Debug\chzh.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\для алгоритмов\chzh\chzh\obj\Debug\chzh.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\для алгоритмов\chzh\chzh\obj\Debug\chzh.exe
+C:\Users\ASUS\Desktop\для алгоритмов\chzh\chzh\obj\Debug\chzh.pdb

@@ -1,0 +1,20 @@
+C:\Users\prota\source\repos\pr22\pr22\bin\Debug\pr22.exe.config
+C:\Users\prota\source\repos\pr22\pr22\bin\Debug\pr22.exe
+C:\Users\prota\source\repos\pr22\pr22\bin\Debug\pr22.pdb
+C:\Users\prota\source\repos\pr22\pr22\obj\Debug\pr22.csproj.AssemblyReference.cache
+C:\Users\prota\source\repos\pr22\pr22\obj\Debug\pr22.Form1.resources
+C:\Users\prota\source\repos\pr22\pr22\obj\Debug\pr22.Properties.Resources.resources
+C:\Users\prota\source\repos\pr22\pr22\obj\Debug\pr22.csproj.GenerateResource.cache
+C:\Users\prota\source\repos\pr22\pr22\obj\Debug\pr22.csproj.CoreCompileInputs.cache
+C:\Users\prota\source\repos\pr22\pr22\obj\Debug\pr22.exe
+C:\Users\prota\source\repos\pr22\pr22\obj\Debug\pr22.pdb
+C:\Users\prota\OneDrive\Рабочий стол\pr22\pr22\bin\Debug\pr22.exe.config
+C:\Users\prota\OneDrive\Рабочий стол\pr22\pr22\bin\Debug\pr22.exe
+C:\Users\prota\OneDrive\Рабочий стол\pr22\pr22\bin\Debug\pr22.pdb
+C:\Users\prota\OneDrive\Рабочий стол\pr22\pr22\obj\Debug\pr22.csproj.AssemblyReference.cache
+C:\Users\prota\OneDrive\Рабочий стол\pr22\pr22\obj\Debug\pr22.Form1.resources
+C:\Users\prota\OneDrive\Рабочий стол\pr22\pr22\obj\Debug\pr22.Properties.Resources.resources
+C:\Users\prota\OneDrive\Рабочий стол\pr22\pr22\obj\Debug\pr22.csproj.GenerateResource.cache
+C:\Users\prota\OneDrive\Рабочий стол\pr22\pr22\obj\Debug\pr22.csproj.CoreCompileInputs.cache
+C:\Users\prota\OneDrive\Рабочий стол\pr22\pr22\obj\Debug\pr22.exe
+C:\Users\prota\OneDrive\Рабочий стол\pr22\pr22\obj\Debug\pr22.pdb
